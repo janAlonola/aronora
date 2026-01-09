@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# VuePress build output
+docs/.vuepress/dist/
+
+# Optional caches
+.vitepress/cache/
+.vuepress/.cache/
+.vuepress/.temp/
+.DS_Store
