@@ -1,0 +1,29 @@
+{
+  "name": "aronora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janAlonola/aronora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/janAlonola/aronora/issues"
+  },
+  "homepage": "https://github.com/janAlonola/aronora#readme",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.26",
+    "@vuepress/theme-default": "^2.0.0-rc.121",
+    "sass-embedded": "^1.97.2",
+    "vuepress": "^2.0.0-rc.26"
+  }
+}
